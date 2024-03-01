@@ -1,0 +1,8 @@
+/target
+/Cargo.lock
+benchmarks/results
+benchmarks/data
+benchmarks/plots
+duckdb_ingestion*
+.ipynb_checkpoints/
+.DS_STORE

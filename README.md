@@ -10,7 +10,7 @@ This repo contains the implementation of µWheel and its evaluation for DEBS24.
 
 The repo is structured as following:
 
-* [benchmarks](benchmarks): contains the evaluation code, depdency requirements, scripts for downloading datasets, explaination of how to run experiments, and instructions how to plot the results.
+* [benchmarks](benchmarks): contains the evaluation code, dependency requirements, scripts for downloading datasets, explaination of how to run experiments, and instructions how to plot the results.
 * [crates](crates): contains the Rust implementation of µWheel.
 
 ## License

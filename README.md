@@ -2,7 +2,7 @@
   <img width="300" height="300" src="assets/logo.png">
 </p>
 
-# µWheel
+# µWheel: Aggregate Management for Streams and Queries
 
 This repo contains the implementation of µWheel and its evaluation for DEBS24.
 
